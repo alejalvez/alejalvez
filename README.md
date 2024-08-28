@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the basics of GitHub and SWD
 - 📫 How to reach me: 
     - email: alejandro.derzel.galvez@gmail.com
-    - discord: @alejalvez
     - linkedin: https://www.linkedin.com/in/alejandro-galvez-958523240/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an avid Sonic the Hedgehog fan! 🔵💨
