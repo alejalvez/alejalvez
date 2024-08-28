@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro Galvez! (@alejalvez)
 - 👀 I’m interested in software development and networks. I also like to study the theory of algorithms and data structures.
-- 🌱 I’m currently learning the basics of GitHub and SWD
+- 🌱 I’m currently learning the basics of Git/Github
 - 📫 How to reach me: 
     - email: alejandro.derzel.galvez@gmail.com
     - linkedin: https://www.linkedin.com/in/alejandro-galvez-958523240/
